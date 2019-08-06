@@ -1,0 +1,7 @@
+{
+    "editor.useTabStops": false,
+    "search.showLineNumbers": true,
+    "zenMode.hideLineNumbers": false,
+    "files.trimTrailingWhitespace": true,
+    "editor.trimAutoWhitespace": false
+}
